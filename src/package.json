@@ -1,0 +1,24 @@
+{
+  "name": "lab04-expressjs-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeampierCM/lab04-expressJS-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeampierCM/lab04-expressJS-Docker/issues"
+  },
+  "homepage": "https://github.com/JeampierCM/lab04-expressJS-Docker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
